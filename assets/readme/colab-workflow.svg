@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 244" role="img" aria-labelledby="title description">
+  <title id="title">Remove a known PDF password with Google Colab</title>
+  <desc id="description">Choose a PDF in your browser, process it in an optional Google Colab runtime, and download the unlocked copy. The PDFMate Android app is not required.</desc>
+  <rect x="1" y="1" width="958" height="242" rx="24" fill="#f7f8fc" stroke="#e1e5ed" stroke-width="2"/>
+  <text x="32" y="42" fill="#222630" font-family="Arial,sans-serif" font-size="19" font-weight="700">A separate browser workflow</text>
+  <text x="32" y="65" fill="#697080" font-family="Arial,sans-serif" font-size="13">No PDFMate Android installation needed</text>
+
+  <g font-family="Arial,sans-serif">
+    <rect x="32" y="91" width="242" height="112" rx="17" fill="#fff" stroke="#e1e5ed" stroke-width="2"/>
+    <rect x="50" y="112" width="42" height="52" rx="8" fill="#e9eef8"/>
+    <path d="M61 125h20M61 134h20M61 143h14" stroke="#697080" stroke-width="3" stroke-linecap="round"/>
+    <path d="M76 155h10v-10" fill="none" stroke="#ec4352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="108" y="132" fill="#222630" font-size="15" font-weight="700">Choose a PDF</text>
+    <text x="108" y="154" fill="#697080" font-size="12">From your browser</text>
+    <text x="108" y="173" fill="#697080" font-size="12">Enter its known password</text>
+
+    <path d="M294 147h38m-9-9 9 9-9 9" fill="none" stroke="#a4abb8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="344" y="91" width="272" height="112" rx="17" fill="#fff" stroke="#e1e5ed" stroke-width="2"/>
+    <path d="M374 147a18 18 0 0 1 4-35 24 24 0 0 1 42 9 17 17 0 0 1-3 34h-38" fill="#e8f0fe" stroke="#4285f4" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="m389 128 8-5 8 5-8 5z" fill="#f9ab00"/><path d="M397 133v11" stroke="#e94235" stroke-width="3"/>
+    <text x="438" y="132" fill="#222630" font-size="15" font-weight="700">Run in Google Colab</text>
+    <text x="438" y="154" fill="#697080" font-size="12">Optional Google-hosted runtime</text>
+    <text x="438" y="173" fill="#697080" font-size="12">No Drive mount or GPU needed</text>
+
+    <path d="M636 147h38m-9-9 9 9-9 9" fill="none" stroke="#a4abb8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="686" y="91" width="242" height="112" rx="17" fill="#fff" stroke="#e1e5ed" stroke-width="2"/>
+    <rect x="704" y="112" width="46" height="52" rx="8" fill="#e4f6ee"/>
+    <path d="M727 121v23m-9-9 9 9 9-9M714 151h26" fill="none" stroke="#14956d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="767" y="132" fill="#222630" font-size="15" font-weight="700">Download the copy</text>
+    <text x="767" y="154" fill="#697080" font-size="12">Verified output PDF</text>
+    <text x="767" y="173" fill="#697080" font-size="12">Clean up the runtime after</text>
+  </g>
+</svg>
