@@ -3,8 +3,16 @@
   <br />
   <a href="#get-started">Build the app</a>
   &nbsp;·&nbsp;
-  <a href="colab/remove_pdf_password.ipynb">Colab notebook</a>
+  <a href="https://github.com/Sampath315/PDFMate/releases">Download</a>
+  &nbsp;·&nbsp;
+  <a href="https://colab.research.google.com/github/Sampath315/PDFMate/blob/main/colab/remove_pdf_password.ipynb">Open password remover in Colab</a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/Sampath315/PDFMate/releases/latest"><img src="https://img.shields.io/badge/Download%20PDFMate-Latest%20APK-e84a5f?style=for-the-badge&logo=android&logoColor=white" alt="Download the latest PDFMate APK from GitHub Releases" /></a>
+  &nbsp;
+  <a href="https://colab.research.google.com/github/Sampath315/PDFMate/blob/main/colab/remove_pdf_password.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open the standalone PDF password remover in Google Colab" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-API%2024%2B-3DDC84?logo=android&logoColor=white" alt="Android 7.0 and newer" />
@@ -74,8 +82,9 @@ PDFMate is a native Android PDF workspace for reading, editing, organizing, and 
   <tr>
     <td colspan="2" valign="top">
       <p><img src="assets/readme/features/colab.svg" width="56" height="56" alt="" /></p>
-      <p><strong>Optional Google Colab password removal</strong></p>
-      <p>Remove protection only when you already know the PDF password. This separate, opt-in notebook runs in Google's hosted environment. <a href="#google-colab">See the Colab workflow</a>.</p>
+      <p><strong>Remove a known PDF password, no app install required</strong></p>
+      <p>Run the optional notebook directly in Google Colab; PDFMate for Android is not needed. The PDF is uploaded to Google's hosted runtime, so use this only for documents you are comfortable processing there. <a href="#google-colab">See how it works</a>.</p>
+      <p><a href="https://colab.research.google.com/github/Sampath315/PDFMate/blob/main/colab/remove_pdf_password.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open PDF password remover in Google Colab" /></a></p>
     </td>
   </tr>
 </table>
@@ -84,9 +93,21 @@ PDFMate preserves document structure when the PDF engine supports the operation;
 
 ## Google Colab
 
-The optional notebook removes password protection when you already know the document password. It uses pikepdf/qpdf to rewrite PDF objects; it does not guess passwords or rasterize pages.
+<p align="center">
+  <img src="assets/readme/features/colab.svg" width="76" height="76" alt="PDF document sent to a cloud notebook" />
+  <br />
+  <strong>Standalone feature: you do not need to download or install PDFMate.</strong>
+  <br />
+  <a href="https://colab.research.google.com/github/Sampath315/PDFMate/blob/main/colab/remove_pdf_password.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open password remover in Google Colab" /></a>
+</p>
 
-1. Open the [notebook in Colab](https://colab.research.google.com/github/Sampath315/PDFMate/blob/main/colab/remove_pdf_password.ipynb) and connect to a Python 3 runtime. The default CPU runtime is enough; Drive and a GPU are not required.
+The notebook removes password protection when you already know the document password. It uses pikepdf/qpdf to rewrite PDF objects; it does not guess passwords or rasterize pages.
+
+<p align="center">
+  <img src="assets/readme/colab-workflow.svg" width="100%" alt="Choose a PDF in your browser, process it in Google Colab, then download the verified copy. No PDFMate app installation is needed." />
+</p>
+
+1. Select **Open in Colab** above and connect to a Python 3 runtime. The default CPU runtime is enough; Drive and a GPU are not required.
 2. Run **Install pikepdf**, then **Upload one PDF** and choose one local PDF.
 3. Enter the password in the hidden prompt. Do not put it in a code cell.
 4. Run **Decrypt, verify, and download**. The notebook verifies that the output opens without a password and has the same page count before downloading it.
