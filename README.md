@@ -13,6 +13,10 @@
 
 PDFMate is a native Android PDF workspace for reading, editing, organizing, and exporting documents. Everyday PDF work stays on your device, with no PDF upload service in this project.
 
+<p align="center">
+  <img src="assets/readme/screenshots/app-showcase.svg" alt="PDFMate shown in dark mode, light mode, and the PDF tools catalog" width="100%" />
+</p>
+
 > [!IMPORTANT]
 > The optional Colab notebook is a separate cloud workflow. A PDF uploaded there is processed in a Google-hosted runtime; review the [privacy notes](#privacy) before using it.
 
