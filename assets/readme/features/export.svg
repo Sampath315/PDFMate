@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Save, share, and print</title>
+  <path d="M13 13h28l12 12v39H13z" fill="#fff" stroke="#c8e3df" stroke-width="2" />
+  <path d="M41 13v9a3 3 0 0 0 3 3h9" fill="#d8efeb" />
+  <path d="M21 34h19M21 40h14" stroke="#8aa5a2" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M53 32v21" stroke="#e5394b" stroke-width="5" stroke-linecap="round" />
+  <path d="m44 41 9-9 9 9M46 55h14" fill="none" stroke="#e5394b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

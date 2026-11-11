@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Convert and enhance documents</title>
+  <path d="m11 18 8-9 25 3-3 29-26-3z" fill="#ffecce" />
+  <path d="m18 13 25 2-2 29-25-2z" fill="#fff" stroke="#eadcc4" stroke-width="2" />
+  <path d="m23 24 13 1M22 30l11 1" stroke="#e39a2e" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M35 42h17a9 9 0 0 0 9-9" fill="none" stroke="#238f86" stroke-width="3.5" stroke-linecap="round" />
+  <path d="m55 29 6 4-6 5" fill="none" stroke="#238f86" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M61 49H44a9 9 0 0 1-9-9" fill="none" stroke="#e5394b" stroke-width="3.5" stroke-linecap="round" />
+  <path d="m41 45-6-5 6-4" fill="none" stroke="#e5394b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

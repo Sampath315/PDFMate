@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Organize PDF pages</title>
+  <path d="m8 16 26-7 12 42-26 7z" fill="#dce7ff" />
+  <path d="m25 14 29-5 7 43-29 5z" fill="#fff" stroke="#becaf0" stroke-width="2" />
+  <path d="m33 24 15-3M34 30l15-3" stroke="#7282c7" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M16 50v12M11 55l5-5 5 5M64 22V10M59 15l5 5 5-5" fill="none" stroke="#238f86" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Optional Google Colab notebook</title>
+  <rect x="10" y="8" width="39" height="54" rx="6" fill="#fff" stroke="#d8deea" stroke-width="2" />
+  <path d="M18 20h19M18 27h14M18 34h12" fill="none" stroke="#238f86" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M44 39a9 9 0 0 1 1-18 12 12 0 0 1 22 5 8 8 0 0 1-2 16H45" fill="#e8f0fe" stroke="#4285f4" stroke-width="2" stroke-linejoin="round" />
+  <path d="m52 29 8 5-8 5z" fill="#f9ab00" />
+  <path d="M18 47h18M18 53h13" fill="none" stroke="#e39a2e" stroke-width="2.5" stroke-linecap="round" />
+</svg>

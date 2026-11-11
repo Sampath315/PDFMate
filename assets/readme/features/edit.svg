@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Edit and annotate a PDF</title>
+  <path d="M15 12 49 7l7 47-34 7z" fill="#fce5e2" />
+  <path d="m20 13 28-4 6 39-28 4z" fill="#fff" stroke="#ead9d8" stroke-width="2" />
+  <path d="m27 28 17-2M28 34l14-2" stroke="#b6c0cc" stroke-width="3" stroke-linecap="round" />
+  <path d="m30 50 20-23 8 7-20 23-10 3z" fill="#ff8a24" />
+  <path d="m50 27 3-4a3 3 0 0 1 4 0l2 2a3 3 0 0 1 0 4l-3 4" fill="#e5394b" />
+  <path d="m28 60 2-10 8 7z" fill="#7e3929" />
+</svg>

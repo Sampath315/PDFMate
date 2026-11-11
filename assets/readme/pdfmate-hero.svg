@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="title description">
+  <title id="title">PDFMate</title>
+  <desc id="description">PDF tools that stay on your Android device, represented by a document inside a warm heart-shaped mark.</desc>
+  <defs>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff991f" />
+      <stop offset="0.55" stop-color="#ff5a24" />
+      <stop offset="1" stop-color="#e53935" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff1dc" />
+      <stop offset="1" stop-color="#ffe4e1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" rx="28" fill="#f8f9fc" />
+  <path d="M0 0h18v440H0z" fill="url(#warm)" />
+  <circle cx="988" cy="219" r="186" fill="url(#glow)" />
+  <circle cx="988" cy="219" r="145" fill="#fff" opacity=".72" />
+
+  <g font-family="Avenir Next, Segoe UI, sans-serif">
+    <text x="86" y="102" fill="#c64336" font-size="17" font-weight="700" letter-spacing="3">PDF WORKSPACE FOR ANDROID</text>
+    <text x="82" y="199" fill="#171b24" font-size="82" font-weight="750" letter-spacing="-2">PDFMate</text>
+    <text x="87" y="251" fill="#434b5b" font-size="27" font-weight="500">Every PDF tool, in your pocket.</text>
+    <text x="87" y="293" fill="#737b8a" font-size="18">Read, edit, organize and convert, on device.</text>
+
+    <g transform="translate(87 337)">
+      <rect width="154" height="42" rx="21" fill="#fff" stroke="#e3e6ee" />
+      <text x="77" y="27" fill="#353c49" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1">ANDROID 7+</text>
+      <rect x="168" width="176" height="42" rx="21" fill="#fff" stroke="#e3e6ee" />
+      <text x="256" y="27" fill="#353c49" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1">PRIVATE BY DESIGN</text>
+    </g>
+  </g>
+
+  <path d="M986 365c-46-40-130-94-130-170 0-43 27-70 66-70 31 0 53 18 64 48 12-29 34-48 65-48 40 0 66 29 66 70 0 76-83 130-131 170z" fill="url(#warm)" />
+  <path d="M986 346c-38-34-108-81-108-145 0-32 19-51 45-51 28 0 48 19 63 55 15-35 35-55 63-55 27 0 45 21 45 51 0 64-69 111-108 145z" fill="#fff8f4" />
+
+  <g transform="rotate(-8 985 228)">
+    <path d="M927 158h82l34 34v124c0 8-6 14-14 14h-102c-8 0-14-6-14-14V172c0-8 6-14 14-14z" fill="#fff" stroke="#f2d9d0" stroke-width="2" />
+    <path d="M1009 158v25c0 6 5 10 11 10h23z" fill="#ffe3d4" />
+    <rect x="929" y="214" width="106" height="52" rx="16" fill="url(#warm)" />
+    <text x="982" y="250" fill="#fff" font-family="Avenir Next, Segoe UI, sans-serif" font-size="27" font-weight="800" text-anchor="middle">PDF</text>
+    <rect x="936" y="281" width="87" height="7" rx="3.5" fill="#d3c4c6" />
+    <rect x="936" y="297" width="62" height="7" rx="3.5" fill="#ded3d4" />
+  </g>
+</svg>

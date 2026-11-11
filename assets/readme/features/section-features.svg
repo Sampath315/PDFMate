@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">PDFMate features</title>
+  <path d="m32 2 7 8 11-2 3 11 9 6-5 10 4 11-11 4-5 10-11-4-10 5-6-10-11-3 3-11-7-9 9-7-1-11 11-1z" fill="#e8eaff" />
+  <path d="M16 20h18v25H16z" fill="#e5394b" />
+  <path d="M30 14h18v13H30z" fill="#ff9b32" />
+  <path d="M30 31h18v16H30z" fill="#238f86" />
+  <path d="M20 26h10M20 31h10M34 20h10M34 37h10" stroke="#fff" stroke-width="2.5" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Read and search a PDF</title>
+  <path d="M13 8h30l13 13v38H13z" fill="#fff1e8" />
+  <path d="M18 11h23l11 11v31H18z" fill="#fff" stroke="#e7d9d4" stroke-width="2" />
+  <path d="M41 11v9a3 3 0 0 0 3 3h8" fill="#ffd4bd" />
+  <path d="M25 31h19M25 37h16M25 43h11" stroke="#e5394b" stroke-width="3" stroke-linecap="round" />
+  <path d="m48 48 10 10" stroke="#ff7a45" stroke-width="5" stroke-linecap="round" />
+  <path d="M43 43a9 9 0 1 0 18 0 9 9 0 0 0-18 0z" fill="#fff" stroke="#ff7a45" stroke-width="3" />
+</svg>

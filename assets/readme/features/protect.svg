@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Protect and prepare a PDF</title>
+  <path d="M36 5 62 15v18c0 16-10 27-26 35C20 60 10 49 10 33V15z" fill="#176f63" />
+  <path d="M36 12 55 19v14c0 12-7 21-19 28-12-7-19-16-19-28V19z" fill="#d9f3e7" />
+  <path d="M27 33v-5a9 9 0 0 1 18 0v5" fill="none" stroke="#e5394b" stroke-width="4" stroke-linecap="round" />
+  <path d="M25 32h22v18H25z" fill="#e5394b" />
+  <circle cx="36" cy="40" r="2" fill="#fff" />
+  <path d="M36 41v4" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+</svg>
